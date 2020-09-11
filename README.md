@@ -2,7 +2,7 @@
 
 # 💻💻 Data-Structure-CPP 💻💻
 
-## 🔗🔗 this contain source code for data structure in c++ 🔗🔗.
+## 🔗🔗 this contain source code for data structures in c++ 🔗🔗.
 
 ##### ✅ all this topics will perform basic operation such as insert, delete, peek via traversing through pointers.
 
