@@ -1,25 +1,25 @@
 <!-- @format -->
 
-# 💻💻 data-structure-cpp 💻💻
+# 💻💻 Data-Structure-CPP 💻💻
 
-## 🔗🔗 this contain source code for data structure in c++.
+## 🔗🔗 this contain source code for data structure in c++ 🔗🔗.
 
 ##### ✅ all this topics will perform basic operation such as insert, delete, peek via traversing through pointers.
 
 ### 🔵 topics covered:-
 
-#### 1.Linked list
+#### 1.Linked list.
 
-#### 2.Doubly linked list
+#### 2.Doubly linked list.
 
-#### 3.Stack
+#### 3.Stack.
 
-#### 4.Queue
+#### 4.Queue.
 
-#### 5.Priority queue
+#### 5.Priority queue.
 
-##### 💾min heap
+##### 📍min heap.
 
-##### 💾max heap
+##### 📍max heap.
 
-#### 6.Heap
+#### 6.Heap.
