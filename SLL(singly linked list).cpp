@@ -30,12 +30,15 @@ struct node{
 		  disp  = disp->link;
 	  }
   }
-
+void delbeg(){
+    head = head->next;
+} //for delete operation
   int main(){
 	  insert(5);//value to be inserted in SLL
 	  insert(1);
 	  insert(0);
 	  insert(7);
+      //delbeg();
 	  cout<<"linked list is";
 	  display();
 	  cout<<endl;

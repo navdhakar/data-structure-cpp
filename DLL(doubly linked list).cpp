@@ -20,6 +20,11 @@ void insertbeg(int data){
 	new_node->prev = NULL;
 	head = new_node;
 }
+void delbeg(){
+ head->next->prev = NULL;
+ head = head->next;
+
+} //for delete operation at begining
 /*void insertpos(int index, int data){
 	struct node*new_node = (struct node *)malloc(sizeof(struct node));
 	struct node*trav;
@@ -51,6 +56,7 @@ int main(){
   insertbeg(4);
   insertbeg(8);
   //insertpos(3, 9);
+  //delbeg();
   display();
   return 0;
 }
