@@ -8,18 +8,18 @@
 
 ### 🔵 topics covered:-
 
-#### 1.Linked list.
+#### [✅]1.Singly linked list.
 
-#### 2.Doubly linked list.
+#### []2.Doubly linked list.
 
-#### 3.Stack.
+#### []3.Stack.
 
-#### 4.Queue.
+#### []4.Queue.
 
-#### 5.Priority queue.
+#### []5.Priority queue.
 
 ##### 📍min heap.
 
 ##### 📍max heap.
 
-#### 6.Heap.
+#### []6.Heap.
