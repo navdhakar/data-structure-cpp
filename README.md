@@ -8,13 +8,13 @@
 
 ### 🔵 topics covered:-
 
-#### [insert, delete, insertatany, deleteatany]
+#### [insert, delete, insertatany/peek, deleteatany/isEmpty]
 
 #### [✅|✅| | ]1.Singly linked list.
 
 #### [✅|✅| | ]2.Doubly linked list.
 
-#### [ | | | ]3.Stack.
+#### [✅|✅|✅|✅]3.Stack.
 
 #### [ | | | ]4.Queue.
 
